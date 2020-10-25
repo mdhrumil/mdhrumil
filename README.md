@@ -1,5 +1,8 @@
-### Hi there 👋
+# Hi there, welcome to my GitHub account.
 
-<!--
-**mdhrumil/mdhrumil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h1>Welcome to my portfolio.
+A little about me:
+- CS grad at Rochester Institute of Technology. 
+- Ex-Software Engineer Intern at eBay.
+- Skills: Full stack web development, machine and deep learning.
+- Interests: Software engineering, startups, stock markets.
+- Feel free to reach out: dm9076@rit.edu
