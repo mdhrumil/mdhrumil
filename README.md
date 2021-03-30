@@ -5,4 +5,4 @@ A little about me:
 - Ex-Software Engineer Intern at eBay.
 - Skills: Full stack web development, machine and deep learning.
 - Interests: Software engineering, startups, reading, stock markets.
-- Feel free to reach out: dm9076@rit.edu
+- Feel free to reach out: mehtadhrumil97@gmail.com
